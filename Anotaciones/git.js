@@ -1,4 +1,7 @@
 /* 
     la rama main no deberia tocarse nunca cuando estamos desarrollando
+    siempre vamos a trabajar desde la rama dev
+    npm run build cuando vamos a pasar a produccion a algjuna plataforma. 
+
     
 */
